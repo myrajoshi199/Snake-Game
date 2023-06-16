@@ -34,8 +34,10 @@ To run the Snake game on your local machine, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1]
+![Screenshot (1)](https://github.com/Voldemond/Snake-Game/assets/136642925/429980d7-35ad-4682-889a-e02fafcae85c)
+![Screenshot 2]
+![Screenshot (2)](https://github.com/Voldemond/Snake-Game/assets/136642925/529311b7-2786-4a50-b3c2-e89fb9d78ef7)
 
 ## License
 
